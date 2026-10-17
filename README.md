@@ -62,7 +62,5 @@ I like building things, writing things down, and learning out loud.
 </p>
 
 <p align="center">
-  <samp>you are visitor</samp>
-  <img src="https://profile-counter.glitch.me/GeeekerK/count.svg" alt="visitors"/>
-  <samp>— thanks for dropping by</samp>
+  <img src="https://komarev.com/ghpvc/?username=GeeekerK&label=visitors&color=0e75b6&style=flat" alt="visitors"/>
 </p>
