@@ -5,7 +5,6 @@
 - 💬 Ask me about anything related to Blockchain / CyberSecurity.
 - 📫 How to reach me: geeekerk@gmail.com
 - 📝 My blog (articles & projects): [geeekerk.github.io](https://geeekerk.github.io/)
-- 😄 Also on CSDN: [here](https://blog.csdn.net/qq_35056209?spm=1010.2135.3001.5343)
 
 ### 🛠 Languages & Tools
 
