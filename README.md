@@ -62,5 +62,5 @@ I like building things, writing things down, and learning out loud.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GeeekerK&label=visitors&color=0e75b6&style=flat" alt="visitors"/>
+  <samp>thanks for dropping by ✦</samp>
 </p>
